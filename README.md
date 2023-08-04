@@ -2,6 +2,7 @@
 const fullName = "srinivasan";
 const age = 22;
 const gender = "Male";
+const DOB = "08-02-2001";
 const occupation = "Technical solve engineer";
 
 // Contact details
@@ -30,6 +31,7 @@ const skills = ["JavaScript", "HTML", "CSS", "Python", "React", "Node.js"];
 console.log("Full Name: " + fullName);
 console.log("Age: " + age);
 console.log("Gender: " + gender);
+console.log("DOB: " + DOB);
 console.log("Occupation: " + occupation);
 console.log("Email: " + email);
 console.log("Phone: " + phone);
