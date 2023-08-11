@@ -3,7 +3,7 @@ const fullName = "srinivasan";
 const age = 22;
 const gender = "Male";
 const DOB = "08-02-2001";
-const occupation = "Bug Develope";
+const occupation = "Bug Developer";
 
 // Contact details
 const email = "Srinivasanbr0802@gmail.com";
